@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A grand, ornate Persian carpet covering a beautiful floor.",
+      "imageUrl": "https://images.unsplash.com/photo-1572123979839-3749e9973aba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzaWFuJTIwY2FycGV0fGVufDB8fHx8MTc2Mzg2MjgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "persian carpet"
+    },
+    {
+      "id": "vendor-avatar-1",
+      "description": "Avatar for Isfahan Carpet Masters vendor.",
+      "imageUrl": "https://images.unsplash.com/photo-1673898065178-df3f365e136f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzaWFuJTIwbWFufGVufDB8fHx8MTc2Mzg2MjgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "persian man"
+    },
+    {
+      "id": "vendor-avatar-2",
+      "description": "Avatar for Tabriz Silk Weavers vendor.",
+      "imageUrl": "https://images.unsplash.com/photo-1719154717749-0d05f61a0588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcnRpc2FuJTIwd29tYW58ZW58MHx8fHwxNzYzODYyODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artisan woman"
+    },
+    {
+      "id": "vendor-avatar-3",
+      "description": "Avatar for Modern Gabbeh Designs vendor.",
+      "imageUrl": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXNpZ25lciUyMHByb2ZpbGV8ZW58MHx8fHwxNzYzODYyODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "designer profile"
+    },
+    {
+      "id": "carpet-1",
+      "description": "A detailed view of a classic red and blue Tabriz carpet.",
+      "imageUrl": "https://images.unsplash.com/photo-1614080035039-af24354a6478?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBjYXJwZXR8ZW58MHx8fHwxNzYzNzUzMzkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red carpet"
+    },
+    {
+      "id": "carpet-2",
+      "description": "A beautiful silk Qum carpet with intricate floral patterns.",
+      "imageUrl": "https://images.unsplash.com/photo-1583100913831-3d318552c7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzaWxrJTIwcnVnfGVufDB8fHx8MTc2Mzg2MjgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silk rug"
+    },
+    {
+      "id": "carpet-3",
+      "description": "A classic Isfahan carpet with a central medallion design.",
+      "imageUrl": "https://images.unsplash.com/photo-1756361771453-6bce7c2cf539?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRhbGxpb24lMjBydWd8ZW58MHx8fHwxNzYzODYyODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medallion rug"
+    },
+    {
+      "id": "carpet-4",
+      "description": "Close-up of a blue Nain carpet with fine wool and silk.",
+      "imageUrl": "https://images.unsplash.com/photo-1600166943013-b30f3d5f57d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxibHVlJTIwY2FycGV0fGVufDB8fHx8MTc2Mzg2MjgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue carpet"
+    },
+    {
+      "id": "carpet-5",
+      "description": "A vibrant and colorful Gabbeh carpet with a modern, abstract design.",
+      "imageUrl": "https://images.unsplash.com/photo-1631466882094-d4af58ef7025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBydWd8ZW58MHx8fHwxNzYzODYyODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern rug"
+    },
+    {
+      "id": "carpet-6",
+      "description": "A nomadic Baluchi carpet with geometric patterns.",
+      "imageUrl": "https://images.unsplash.com/photo-1761639502675-442d396c516f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmliYWwlMjBydWd8ZW58MHx8fHwxNzYzODYyODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tribal rug"
+    },
+    {
+      "id": "carpet-7",
+      "description": "A minimalist gray carpet with subtle texture.",
+      "imageUrl": "https://images.unsplash.com/photo-1759722669019-04b59f386fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtaW5pbWFsaXN0JTIwcnVnfGVufDB8fHx8MTc2Mzg2MjgyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist rug"
+    },
+    {
+      "id": "carpet-8",
+      "description": "A contemporary carpet with bold geometric shapes.",
+      "imageUrl": "https://images.unsplash.com/photo-1752568583323-92145f90e6a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnZW9tZXRyaWMlMjBydWd8ZW58MHx8fHwxNzYzODYyODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geometric rug"
+    }
+  ]
+}

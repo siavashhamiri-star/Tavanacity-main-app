@@ -1,0 +1,8 @@
+{
+  "name": "FarshBazaar & Tavana Supercity",
+  "description": "سامانه جامع فرش‌بازار و ابرشهر توانا (شهر همراز و شهر آفرینا) با هوش مصنوعی نکسوز",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
